@@ -1,0 +1,99 @@
+[
+    {
+      "user_id": 1,
+      "content": "My first updated post!\nThis is exciting!"
+    },
+    {
+      "user_id": 2,
+      "content": "This is a post from a different user..."
+    },
+    {
+      "user_id": 1,
+      "content": "These are the top 5 programming languages that everyone should consider learning. Each language offers unique advantages, from flexibility to performance. Stay tuned for more details!"
+    },
+    {
+      "user_id": 1,
+      "content": "Explore powerful tips and tricks to enhance your experience with Sublime Text. Learn how to boost your productivity with simple shortcuts and plugins."
+    },
+    {
+      "user_id": 1,
+      "content": "Looking for the best IDEs to code in Python? This post compares the top options to help you choose the one that fits your workflow."
+    },
+    {
+      "user_id": 2,
+      "content": "Flask and Django are two of the most popular Python web frameworks. In this post, we’ll compare them and help you decide which one is better for your project needs."
+    },
+    {
+      "user_id": 2,
+      "content": "This post explores how outrageous headlines are used to draw attention online. Find out how to spot them and what makes them so effective."
+    },
+    {
+      "user_id": 1,
+      "content": "Ever wondered if beer helps with coding? Here’s a fun take on how your favorite brew might just boost your programming skills—responsibly, of course."
+    },
+    {
+      "user_id": 1,
+      "content": "A curated list of the best talks from PyCon 2018. Whether you missed it or want a refresher, this guide has you covered."
+    },
+    {
+      "user_id": 1,
+      "content": "Discover how having dogs in the office can improve mood, reduce stress, and enhance team performance."
+    },
+    {
+      "user_id": 1,
+      "content": "Podcasts are a great way to stay updated on programming trends. Here’s a list of the best ones every developer should listen to."
+    },
+    {
+      "user_id": 2,
+      "content": "Learn how to conquer your fear of public speaking with these practical tips and mindset shifts."
+    },
+    {
+      "user_id": 2,
+      "content": "A look at the most influential programmers in history—from pioneers like Ada Lovelace to modern-day innovators."
+    },
+    {
+      "user_id": 2,
+      "content": "A step-by-step guide to starting your own YouTube channel, from branding and setup to your first upload."
+    },
+    {
+      "user_id": 1,
+      "content": "An inside look at the tools and techniques I use to record my videos—from screen capture to audio editing."
+    },
+    {
+      "user_id": 1,
+      "content": "Explore how Python can be used to solve problems in physics with real-world examples and code snippets."
+    },
+    {
+      "user_id": 1,
+      "content": "Sometimes it feels like titles alone can drive engagement. Here’s a satirical post about the obsession with catchy headlines."
+    },
+    {
+      "user_id": 1,
+      "content": "Here’s a playlist of music that helps keep you focused and motivated while writing code."
+    },
+    {
+      "user_id": 2,
+      "content": "Want more people to click your posts? These headline tips will help grab attention without misleading your readers."
+    },
+    {
+      "user_id": 2,
+      "content": "Data science is transforming industries. This post explores how it has grown and where it’s heading."
+    },
+    {
+      "user_id": 1,
+      "content": "A list of the best YouTube channels and video tutorials to help you learn Python effectively."
+    },
+    {
+      "user_id": 1,
+      "content": "Enhance your Python coding skills with these handy tips and lesser-known tricks."
+    },
+    {
+      "user_id": 2,
+      "content": "Here are the top 5 YouTube channels that consistently deliver high-quality content for learning programming."
+    },
+    {
+      "user_id": 1,
+      "content": "Sharing another updated post! Keep an eye out for new content and improvements."
+    }
+  ]
+  
