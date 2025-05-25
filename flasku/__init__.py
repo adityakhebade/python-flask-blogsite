@@ -35,7 +35,6 @@ def create_app(config_class=Config):
     login_manager.init_app(app)
     mail.init_app(app)
 
-
     from flasku.users.routes import users
     from flasku.posts.routes import posts
     from flasku.main.routes import main
